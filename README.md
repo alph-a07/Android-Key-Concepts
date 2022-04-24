@@ -1,15 +1,15 @@
 # Contents
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#date-picker">Date Picker</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#on-click-animations">On click animations</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#activiry-switching-animations">Activity switching animations</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#loading-a-gif-as-animation">Loading a GIF as animation</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#google-signin-firebase">Google SignIn Firebase</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#hideview-password-in-textview">Hide/View password in TextView</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#dividing-two-views-in-equal-halves-in-relative-layout">Dividing two views in equal halves in relative layout</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#only-emoji-selector">Convert String to Editable</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#color-terminology">Color terminology</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#custom-toolbar-and-menu">Custom toolbar and menu in a layout</a>
-- <a href="https://github.com/alph-a07/Android-Key-Concepts/edit/main/README.md#intent-types">Intent Types</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#date-picker">Date Picker</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#on-click-animations">On click animations</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#activiry-switching-animations">Activity switching animations</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#loading-a-gif-as-animation">Loading a GIF as animation</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#google-signin-firebase">Google SignIn Firebase</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#hideview-password-in-textview">Hide/View password in TextView</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#dividing-two-views-in-equal-halves-in-relative-layout">Dividing two views in equal halves in relative layout</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#only-emoji-selector">Convert String to Editable</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#color-terminology">Color terminology</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#custom-toolbar-and-menu">Custom toolbar and menu in a layout</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#intent-types">Intent Types</a>
 
 # Date Picker
 #### Create fragment for dialog popup
