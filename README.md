@@ -10,6 +10,7 @@
 - <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#color-terminology">Color terminology</a>
 - <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#custom-toolbar-and-menu">Custom toolbar and menu in a layout</a>
 - <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#intent-types">Intent Types</a>
+- <a href="https://github.com/alph-a07/Android-Key-Concepts/blob/main/README.md#google-sms-retriever-api">Google SMS Retriever API</a>
 
 # Date Picker
 #### Create fragment for dialog popup
